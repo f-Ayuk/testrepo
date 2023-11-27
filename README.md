@@ -1,2 +1,5 @@
 # testrepo
-Edx git and GitHub
+
+## Editing the file
+
+Edx git and GitHub (It's a markdown repository)
